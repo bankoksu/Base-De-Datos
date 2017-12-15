@@ -1,0 +1,153 @@
+
+#	
+001		Bulbasaur	Tipo planta	Tipo veneno
+002		Ivysaur	Tipo planta	Tipo veneno
+003		Venusaur	Tipo planta	Tipo veneno
+004		Charmander	Tipo fuego	
+005		Charmeleon	Tipo fuego	
+006		Charizard	Tipo fuego	Tipo volador
+007		Squirtle	Tipo agua	
+008		Wartortle	Tipo agua	
+009		Blastoise	Tipo agua	
+010		Caterpie	Tipo bicho	
+011		Metapod	Tipo bicho	
+012		Butterfree	Tipo bicho	Tipo volador
+013		Weedle	Tipo bicho	Tipo veneno
+014		Kakuna	Tipo bicho	Tipo veneno
+015		Beedrill	Tipo bicho	Tipo veneno
+016		Pidgey	Tipo normal	Tipo volador
+017		Pidgeotto	Tipo normal	Tipo volador
+018		Pidgeot	Tipo normal	Tipo volador
+019		Rattata	Tipo normal	
+020		Raticate	Tipo normal	
+021		Spearow	Tipo normal	Tipo volador
+022		Fearow	Tipo normal	Tipo volador
+023		Ekans	Tipo veneno	
+024		Arbok	Tipo veneno	
+025		Pikachu	Tipo eléctrico	
+026		Raichu	Tipo eléctrico	
+027		Sandshrew	Tipo tierra	
+028		Sandslash	Tipo tierra	
+029		Nidoran?	Tipo veneno	
+030		Nidorina	Tipo veneno	
+031		Nidoqueen	Tipo veneno	Tipo tierra
+032		Nidoran?	Tipo veneno	
+033		Nidorino	Tipo veneno	
+034		Nidoking	Tipo veneno	Tipo tierra
+035		Clefairy	Tipo hada1	
+036		Clefable	Tipo hada1	
+037		Vulpix	Tipo fuego	
+038		Ninetales	Tipo fuego	
+039		Jigglypuff	Tipo normal	Tipo hada1
+040		Wigglytuff	Tipo normal	Tipo hada1
+041		Zubat	Tipo veneno	Tipo volador
+042		Golbat	Tipo veneno	Tipo volador
+043		Oddish	Tipo planta	Tipo veneno
+044		Gloom	Tipo planta	Tipo veneno
+045		Vileplume	Tipo planta	Tipo veneno
+046		Paras	Tipo bicho	Tipo planta
+047		Parasect	Tipo bicho	Tipo planta
+048		Venonat	Tipo bicho	Tipo veneno
+049		Venomoth	Tipo bicho	Tipo veneno
+050		Diglett	Tipo tierra	
+051		Dugtrio	Tipo tierra	
+052		Meowth	Tipo normal	
+053		Persian	Tipo normal	
+054		Psyduck	Tipo agua	
+055		Golduck	Tipo agua	
+056		Mankey	Tipo lucha	
+057		Primeape	Tipo lucha	
+058		Growlithe	Tipo fuego	
+059		Arcanine	Tipo fuego	
+060		Poliwag	Tipo agua	
+061		Poliwhirl	Tipo agua	
+062		Poliwrath	Tipo agua	Tipo lucha
+063		Abra	Tipo psíquico	
+064		Kadabra	Tipo psíquico	
+065		Alakazam	Tipo psíquico	
+066		Machop	Tipo lucha	
+067		Machoke	Tipo lucha	
+068		Machamp	Tipo lucha	
+069		Bellsprout	Tipo planta	Tipo veneno
+070		Weepinbell	Tipo planta	Tipo veneno
+071		Victreebel	Tipo planta	Tipo veneno
+072		Tentacool	Tipo agua	Tipo veneno
+073		Tentacruel	Tipo agua	Tipo veneno
+074		Geodude	Tipo roca	Tipo tierra
+075		Graveler	Tipo roca	Tipo tierra
+076		Golem	Tipo roca	Tipo tierra
+077		Ponyta	Tipo fuego	
+078		Rapidash	Tipo fuego	
+079		Slowpoke	Tipo agua	Tipo psíquico
+080		Slowbro	Tipo agua	Tipo psíquico
+081		Magnemite	Tipo eléctrico	Tipo acero2
+082		Magneton	Tipo eléctrico	Tipo acero2
+083		Farfetch'd	Tipo normal	Tipo volador
+084		Doduo	Tipo normal	Tipo volador
+085		Dodrio	Tipo normal	Tipo volador
+086		Seel	Tipo agua	
+087		Dewgong	Tipo agua	Tipo hielo
+088		Grimer	Tipo veneno	
+089		Muk	Tipo veneno	
+090		Shellder	Tipo agua	
+091		Cloyster	Tipo agua	Tipo hielo
+092		Gastly	Tipo fantasma	Tipo veneno
+093		Haunter	Tipo fantasma	Tipo veneno
+094		Gengar	Tipo fantasma	Tipo veneno
+095		Onix	Tipo roca	Tipo tierra
+096		Drowzee	Tipo psíquico	
+097		Hypno	Tipo psíquico	
+098		Krabby	Tipo agua	
+099		Kingler	Tipo agua	
+100		Voltorb	Tipo eléctrico	
+101		Electrode	Tipo eléctrico	
+102		Exeggcute	Tipo planta	Tipo psíquico
+103		Exeggutor	Tipo planta	Tipo psíquico
+104		Cubone	Tipo tierra	
+105		Marowak	Tipo tierra	
+106		Hitmonlee	Tipo lucha	
+107		Hitmonchan	Tipo lucha	
+108		Lickitung	Tipo normal	
+109		Koffing	Tipo veneno	
+110		Weezing	Tipo veneno	
+111		Rhyhorn	Tipo tierra	Tipo roca
+112		Rhydon	Tipo tierra	Tipo roca
+113		Chansey	Tipo normal	
+114		Tangela	Tipo planta	
+115		Kangaskhan	Tipo normal	
+116		Horsea	Tipo agua	
+117		Seadra	Tipo agua	
+118		Goldeen	Tipo agua	
+119		Seaking	Tipo agua	
+120		Staryu	Tipo agua	
+121		Starmie	Tipo agua	Tipo psíquico
+122		Mr. Mime	Tipo psíquico	Tipo hada3
+123		Scyther	Tipo bicho	Tipo volador
+124		Jynx	Tipo hielo	Tipo psíquico
+125		Electabuzz	Tipo eléctrico	
+126		Magmar	Tipo fuego	
+127		Pinsir	Tipo bicho	
+128		Tauros	Tipo normal	
+129		Magikarp	Tipo agua	
+130		Gyarados	Tipo agua	Tipo volador
+131		Lapras	Tipo agua	Tipo hielo
+132		Ditto	Tipo normal	
+133		Eevee	Tipo normal	
+134		Vaporeon	Tipo agua	
+135		Jolteon	Tipo eléctrico	
+136		Flareon	Tipo fuego	
+137		Porygon	Tipo normal	
+138		Omanyte	Tipo roca	Tipo agua
+139		Omastar	Tipo roca	Tipo agua
+140		Kabuto	Tipo roca	Tipo agua
+141		Kabutops	Tipo roca	Tipo agua
+142		Aerodactyl	Tipo roca	Tipo volador
+143		Snorlax	Tipo normal	
+144		Articuno	Tipo hielo	Tipo volador
+145		Zapdos	Tipo eléctrico	Tipo volador
+146		Moltres	Tipo fuego	Tipo volador
+147		Dratini	Tipo dragón	
+148		Dragonair	Tipo dragón	
+149		Dragonite	Tipo dragón	Tipo volador
+150		Mewtwo	Tipo psíquico	
+151		Mew4	Tipo psíquico
